@@ -1,13 +1,13 @@
 variable "project" {
-  type = string
+    type = string
 }
 
 variable "environment" {
-  type = string
+    type = string
 }
 
 variable "sg_name" {
-  type = string
+    type = string
 }
 
 variable "vpc_id" {
